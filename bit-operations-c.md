@@ -1,4 +1,5 @@
 # How to bit operations (C version)
+
 ``!`` logical not, nonzero -> 0, 0 -> 1
 
 the rest are bitwise (compares each bit and does the operator)
